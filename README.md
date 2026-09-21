@@ -49,6 +49,20 @@ The Excel dashboard provides a visual overview of:
 - Profit by region
 - Revenue by customer type
 - Key business KPIs
+  
+## Dashboard Visualizations
+### Monthly Revenue Trend
+![Monthly Revenue Trend](monthly-revenue-trend.png)
+
+
+
+### Revenue by Product Category
+![Revenue by Product Category](revenue-by-product-category.png)
+
+
+
+### Profit by Product Category
+![Profit by Product Category](profit-by-product-category.png)
 
 # Key Insights
 
